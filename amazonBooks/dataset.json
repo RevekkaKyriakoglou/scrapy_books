@@ -1,0 +1,82 @@
+[
+    {
+        "book_title": "Minecraft, le guide Création",
+        "href": "https://www.amazon.fr/Minecraft-guide-Cr%C3%A9ation-Craig-Jelley/dp/2075078386",
+        "date": "1 juin 2017"
+    },
+    {
+        "book_title": "HACKING  POUR  DÉBUTANT: le guide ultime du débutant pour apprendre les bases du hacking avec Kali Linux et comment se protéger des hackers",
+        "href": "https://www.amazon.fr/HACKING-POUR-D%C3%89BUTANT-d%C3%A9butant-apprendre/dp/1689853077",
+        "date": "1 septembre 2019"
+    },
+    {
+        "book_title": "J'apprends à programmer avec Python",
+        "href": "https://www.amazon.fr/Japprends-%C3%A0-programmer-avec-Python/dp/1474934153",
+        "date": "14 septembre 2017"
+    },
+    {
+        "book_title": "Minecraft, le guide Redstone",
+        "href": "https://www.amazon.fr/Minecraft-guide-Redstone-Craig-Jelley/dp/2075078394",
+        "date": "19 octobre 2017"
+    },
+    {
+        "book_title": "Apprendre à programmer avec Python 3",
+        "href": "https://www.amazon.fr/Apprendre-%C3%A0-programmer-avec-Python/dp/2212134347",
+        "date": "2 février 2012"
+    },
+    {
+        "book_title": "Guide des sciences et technologies industrielles 2019-2020 - Elève - 2019",
+        "href": "https://www.amazon.fr/Guide-sciences-technologies-industrielles-2019-2020/dp/2091653403",
+        "date": "9 mai 2019"
+    },
+    {
+        "book_title": "Programmer en s'amusant Arduino, pour les nuls 2e éd",
+        "href": "https://www.amazon.fr/Programmer-samusant-Arduino-pour-nuls/dp/2412043507",
+        "date": "3 janvier 2019"
+    },
+    {
+        "book_title": "Minecraft, le guide Exploration",
+        "href": "https://www.amazon.fr/Minecraft-guide-Exploration-Stephanie-Milton/dp/2075078378",
+        "date": "1 juin 2017"
+    },
+    {
+        "book_title": "Méthodes de design UX: 30 méthodes fondamentales pour concevoir des expériences optimales",
+        "href": "https://www.amazon.fr/M%C3%A9thodes-design-fondamentales-concevoir-interactifs/dp/2212673981",
+        "date": "6 septembre 2018"
+    },
+    {
+        "book_title": "Programmer pour les Nuls grand format, 3e édition",
+        "href": "https://www.amazon.fr/Programmer-pour-grand-format-%C3%A9dition/dp/2412025762",
+        "date": "4 mai 2017"
+    },
+    {
+        "book_title": "Machine Learning avec Scikit-Learn - 2e éd. - Mise en oeuvre et cas concrets",
+        "href": "https://www.amazon.fr/Machine-Learning-avec-Scikit-Learn-concrets/dp/210079065X",
+        "date": "20 novembre 2019"
+    },
+    {
+        "book_title": "Réalisez votre site web avec HTML 5 et CSS 3",
+        "href": "https://www.amazon.fr/R%C3%A9alisez-votre-site-avec-HTML/dp/2212674767",
+        "date": "7 septembre 2017"
+    },
+    {
+        "book_title": "Python pour les Nuls, grand format, 2e édition",
+        "href": "https://www.amazon.fr/Python-pour-grand-format-%C3%A9dition/dp/2412028877",
+        "date": "4 janvier 2018"
+    },
+    {
+        "book_title": "Le grand livre de Lego Mindstorms EV3: Apprenez à programmer en vous amusant de 9 à 99 ans",
+        "href": "https://www.amazon.fr/grand-livre-Lego-Mindstorms-EV3/dp/2212118643",
+        "date": "9 mars 2017"
+    },
+    {
+        "book_title": "Python pour les kids: La prorammation accessible aux enfants ! Dès 10 ans.",
+        "href": "https://www.amazon.fr/Python-pour-kids-prorammation-accessible/dp/2212140886",
+        "date": "19 mars 2015"
+    },
+    {
+        "book_title": "Scrum - 5e éd. - Pour une pratique vivante de l'agilité",
+        "href": "https://www.amazon.fr/Scrum-Pour-pratique-vivante-lagilit%C3%A9/dp/2100800949",
+        "date": "24 mai 2019"
+    }
+]
